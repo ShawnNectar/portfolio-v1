@@ -16,7 +16,7 @@ export default {
     },
     computed: {
         iconClasses() {
-            return 'w-10 h-12';
+            return 'w-12 h-16';
         }
     }
 }
