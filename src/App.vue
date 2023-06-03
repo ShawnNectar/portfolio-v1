@@ -52,7 +52,7 @@ import './index.css'
                     <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Math development 🔢 @ specially algorithms"</span>);
                 </h2>
                 <h2 class="pb-2">
-                    <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"IoT technology 📡 @ I've been working on house automation"</span>);
+                    <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"IoT technology 📡 @ I've been working on home automation"</span>);
                 </h2>
                 <h2 class="pb-2">
                     <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Robotics 🤖 @ I love anything related to robotics LOVE IT"</span>);
