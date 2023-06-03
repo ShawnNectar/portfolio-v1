@@ -4,6 +4,7 @@ import './index.css'
 
 <template>
     <div class="px-10 pt-6">
+    <div>
         <h1 class="text-5xl font-semibold pb-5 text-amber-200">👋 Hey, I'm Shawn!</h1>
         <div class="grid grid-cols-2">
             <div class="text-2xl text-blue-200 font-mono">
@@ -65,11 +66,16 @@ import './index.css'
         </div>
 
         </div>
-        <div>
-            <h1>let github = String::from("github");</h1>
+        <div class="font-mono text-2xl text-blue-200">
+            <h1 class="text-2xl text-green-600 font-mono">// Connections: </h1>
+            <span class="text-orange-500">let </span>github = String::<span style="color: #50a8e4;">from</span>(<span style="color: #e70d0d;">"<a style="text-decoration: underline" href="https://github.com/ShawnNectar">github</a>"</span>);
             <div>
-                <h1>let email = String::from("shawnnectar@protonmail.com");</h1>
-                <h1>let discord = String::from("ShawnNectar#8155");</h1>
+                <h1>
+                    <span class="text-orange-500">let </span>email = String::<span style="color: #50a8e4;">from</span>(<span style="color: #e70d0d;">"shawnnectar@protonmail.com"</span>);
+                </h1>
+                <h1>
+                    <span class="text-orange-500">let </span>discord = String::<span style="color: #50a8e4;">from</span>(<span style="color: #e70d0d;">"ShawnNectar#8155"</span>);
+                </h1>
             </div>
         </div>
         <div>
@@ -90,6 +96,7 @@ import './index.css'
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");</h1>
         </div>
+    </div>
 </template>
 
 
