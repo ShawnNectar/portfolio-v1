@@ -9,7 +9,7 @@
             <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"World-improving tools 🛠️"</span>);
         </h2>
         <h2 class="pb-2">
-            <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Things to make life better💡"</span>);
+            <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Things to make life better 💡"</span>);
         </h2>
         <h2 class="pb-2">
             <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Talk a lot 🗣️"</span>);
