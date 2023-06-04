@@ -4,7 +4,7 @@
 
 <template>
     <div class="font-mono text-2xl text-blue-200 pt-10 pb-5">
-        <h1 class="text-2xl text-green-600 font-mono pb-2">// Connections: </h1>
+        <h1 class="text-2xl text-green-600 font-mono pb-2">// Connections </h1>
         <span class="text-orange-500">let </span>github = String::<span style="color: #50a8e4;">from</span>(<span
             style="color: #e70d0d;">"<a style="text-decoration: underline" href="https://github.com/ShawnNectar" target=”_blank”>github</a>"</span>);
         <div>
