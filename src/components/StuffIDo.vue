@@ -3,8 +3,8 @@
 </script>
 
 <template>
-    <div class="font-mono text-lg md:text-2xl text-blue-200 pt-5 pb-5">
-        <h1 class="text-2xl md:py-5 text-green-600 font-mono pb-2">// Stuff I do</h1>
+    <div class="text-lg md:text-2xl text-blue-200 font-mono">
+        <h1 class="text-green-600 py-2 md:py-5">// Stuff I do</h1>
         <ul class="list-none pl-0">
             <li class="pb-2">
                 <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"World-improving tools 🛠️"</span>);
