@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div class="font-mono text-2xl text-blue-200 pt-10 pb-10">
+    <div class="font-mono text-lg md:text-2xl text-blue-200 pt-10 pb-5">
         <h1>
             <span class="text-orange-500">let </span>
             <span style="color: #00843D">B</span>
@@ -26,7 +26,7 @@
             <span style='color: #00843D'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⡟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀</span><br/>
             <span style='color: #FFCC29'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣾⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</span><br/>
             <span style='color: #0142c7'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</span><br/>
-            );
+            ");
         </h1>
     </div>
 </template>
