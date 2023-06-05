@@ -3,25 +3,28 @@
 </script>
 
 <template>
-    <div class="text-2xl text-blue-200 font-mono sm:text-lg md:text-2xl">
-        <h1 class="text-green-600 py-5">// Stuff I do </h1>
-        <h2 class="pb-2">
-            <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"World-improving tools 🛠️"</span>);
-        </h2>
-        <h2 class="pb-2">
-            <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Things to make life better 💡"</span>);
-        </h2>
-        <h2 class="pb-2">
-            <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Talk a lot 🗣️"</span>);
-        </h2>
-        <h2 class="pb-2">
-            <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Study tech all day 📖"</span>);
-        </h2>
-        <h2 class="pb-3">
-            <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Have some fun with biology 🧬"</span>);
-        </h2>
+    <div class="text-lg md:text-2xl text-blue-200 font-mono">
+        <h1 class="text-green-600 py-2 md:py-5">// Stuff I do</h1>
+        <ul class="list-disc pl-6">
+            <li class="pb-2">
+                <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"World-improving tools 🛠️"</span>);
+            </li>
+            <li class="pb-2">
+                <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Things to make life better 💡"</span>);
+            </li>
+            <li class="pb-2">
+                <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Talk a lot 🗣️"</span>);
+            </li>
+            <li class="pb-2">
+                <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Study tech all day 📖"</span>);
+            </li>
+            <li class="pb-3">
+                <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Have some fun with biology 🧬"</span>);
+            </li>
+        </ul>
     </div>
 </template>
+
 
 <style scoped>
 

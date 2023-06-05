@@ -1,22 +1,19 @@
 <template>
-    <div class="font-mono text-2xl text-blue-200 pt-10 pb-5 sm:text-lg md:text-2xl">
-        <h1 class="text-2xl text-green-600 font-mono pb-2">// Connections </h1>
-        <div>
-            <h1 class="pt-6 pb-2">
-                <span class="text-orange-500">let </span>github = String::<span style="color: #50a8e4;">from</span>(<span
-                style="color: #e70d0d;">"<a style="text-decoration: underline" href="https://github.com/ShawnNectar" target=”_blank”>github</a>"</span>);
-            </h1>
-            <h1 class="pt-6 pb-2">
-                <span class="text-orange-500">let </span>email = String::<span style="color: #50a8e4;">from</span>(<span style="color: #e70d0d; cursor: pointer;" @click="copyText('shawnnectar@protonmail.com', 'showCopiedEmail')" ref="emailRef">"shawnnectar@protonmail.com"</span>);
-                <span v-if="showCopiedEmail" class="text-green-500 ml-2">(Copied!)</span>
-            </h1>
-            <h1 class="pb-2">
-                <span class="text-orange-500">let </span>discord = String::<span style="color: #50a8e4;">from</span>(<span style="color: #e70d0d; cursor: pointer;" @click="copyText('ShawnNectar#8155', 'showCopiedDiscord')" ref="discordRef">"ShawnNectar#8155"</span>);
-                <span v-if="showCopiedDiscord" class="text-green-500 ml-2">(Copied!)</span>
-            </h1>
-        </div>
+    <div class="text-lg md:text-2xl text-blue-200 font-mono">
+        <h1 class="text-green-600 py-2 md:py-5">// Connections</h1>
+        <p class="pb-2">
+            <span class="text-teal-600">let</span> connections = {
+            <span class="text-teal-600">twitter</span>: <span style="color: #e70d0d;">"@shawn_dev"</span>,
+            <span class="text-teal-600">github</span>: <span style="color: #e70d0d;">"shawn-dev"</span>,
+            <span class="text-teal-600">linkedin</span>: <span style="color: #e70d0d;">"shawn-dev"</span>
+            };
+        </p>
+        <p>
+            <span class="text-teal-600">console.log</span>(<span class="text-teal-600">connections</span>);
+        </p>
     </div>
 </template>
+
 <script>
 export default {
     data() {
