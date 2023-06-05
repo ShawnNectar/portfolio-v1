@@ -27,11 +27,3 @@ import Brazil from "@/components/Brazil.vue";
         </div>
     </div>
 </template>
-
-
-
-
-
-
-
-
