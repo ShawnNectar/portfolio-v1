@@ -1,5 +1,5 @@
 <template>
-    <div class="font-mono text-2xl text-blue-200 pt-10 pb-5">
+    <div class="font-mono text-2xl text-blue-200 pt-10 pb-5 sm:text-lg md:text-2xl">
         <h1 class="text-2xl text-green-600 font-mono pb-2">// Connections </h1>
         <div>
             <h1 class="pt-6 pb-2">
