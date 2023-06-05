@@ -8,23 +8,26 @@ import Brazil from "@/components/Brazil.vue";
 </script>
 
 <template>
-    <div class="lg:px-10 md:px-10 sm:px-0 pt-6">
-        <div class="lg:px-0 md:px-10 sm:px-10">
+    <div class="px-10 pt-6">
+        <div class="px-0 md:px-10">
             <h1 class="text-5xl font-semibold pb-5 text-amber-200">🤗 Hey, I'm Shawn!</h1>
-            <div class="lg:flex md:block sm:block">
-                <div class="lg:w-1/2 md:w-full sm:w-full">
+            <div class="md:flex md:flex-wrap">
+                <div class="md:w-1/2">
                     <StuffIDo />
                 </div>
-                <div class="lg:w-1/2 md:w-full sm:w-full">
+                <div class="md:w-1/2">
                     <AboutMe />
                 </div>
             </div>
+
             <WorkInterests />
+
             <Connections />
             <Brazil />
         </div>
     </div>
 </template>
+
 
 
 
