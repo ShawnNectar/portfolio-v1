@@ -19,7 +19,7 @@
                 <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Passionated about tech 🌐"</span>);
             </li>
             <li class="pb-2">
-                <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Want to explore the universe 🔭"</span>);
+                <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Want to explore the universe🔭"</span>);
             </li>
         </ul>
     </div>
