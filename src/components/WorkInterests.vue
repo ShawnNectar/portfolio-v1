@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div class="text-lg md:text-2xl text-blue-200 font-mono">
+    <div class="text-sm md:text-2xl text-blue-200 font-mono">
         <h1 class="text-green-600 py-2 md:py-5">// Working interests</h1>
         <h2 class="pb-2">
             <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Math development 🔢 ## specially algorithms"</span>);
@@ -20,6 +20,7 @@
         <h2 class="pb-2">
             <span class="text-teal-600">println!</span>(<span style="color: #e70d0d;">"Real-life applied stuff 🌐 ## why would we build useless stuff?"</span>);
         </h2>
+
     </div>
 </template>
 
