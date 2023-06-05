@@ -14,8 +14,8 @@
                 <span v-if="showCopiedEmail" class="text-green-500 ml-2">(Copied!)</span>
             </h2>
             <h2 class="pb-2">
-                <span class="text-orange-500">⠀let </span>discord = ⠀String::<span style="color: #50a8e4;">from</span>(<span style="color: #e70d0d; cursor: pointer;" @click="copyText('ShawnNectar#8155', 'showCopiedDiscord')" ref="discordRef">"ShawnNectar#8155"</span>); <br>}
-                <span v-if="showCopiedDiscord" class="text-green-500 ml-2">(Copied!)</span>
+                <span class="text-orange-500">⠀let </span>discord = ⠀String::<span style="color: #50a8e4;">from</span>(<span style="color: #e70d0d; cursor: pointer;" @click="copyText('ShawnNectar#8155', 'showCopiedDiscord')" ref="discordRef">"ShawnNectar#8155"</span>);
+                <span v-if="showCopiedDiscord" class="text-green-500 ml-2">(Copied!)</span> <br>}
             </h2>
         </div>
     </div>
