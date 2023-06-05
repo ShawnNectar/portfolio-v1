@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div class="font-mono text-lg md:text-2xl text-blue-200 pt-10 pb-5">
+    <div class="text-lg md:text-2xl text-blue-200 font-mono">
         <h1>
             <span class="text-orange-500">let </span>
             <span style="color: #00843D">B</span>
