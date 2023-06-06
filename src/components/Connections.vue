@@ -3,18 +3,18 @@
         <h1 class="text-green-600 py-2 md:py-5 ">// Connections </h1>
         <div>
             <h1 class="pb-2">
-                <span class="text-orange-500">let </span>github = String::<span style="color: #50a8e4;">from</span>(<span style="color: #fc8140;">"<a style="text-decoration: underline" href="https://github.com/ShawnNectar" target=”_blank”>github</a>"</span>);
+                <span class="text-orange-500">let </span>github = String::<span style="color: #50a8e4;">from</span>(<span style="color: #fc4640;">"<a style="text-decoration: underline" href="https://github.com/ShawnNectar" target=”_blank”>github</a>"</span>);
             </h1>
 
             <h2 class="pt-6 pb-2">
                 <span class="text-orange-500">fn</span> <span class="text-amber-300">click_to_copy</span>() {
             </h2>
             <h2 class=" pb-2">
-                <span class="text-orange-500">⠀let </span>email = <br class="md:hidden"/><span class="md:hidden">⠀</span>String::<span style="color: #50a8e4;">from</span>(<span style="color: #fc8140; cursor: pointer;" @click="copyText('\t\n'+'shawnnectar@pm.me', 'showCopiedEmail')" ref="emailRef">"shawnnectar@pm.me"</span>);
+                <span class="text-orange-500">⠀let </span>email = <br class="md:hidden"/><span class="md:hidden">⠀</span>String::<span style="color: #50a8e4;">from</span>(<span style="color: #fc4640; cursor: pointer;" @click="copyText('\t\n'+'shawnnectar@pm.me', 'showCopiedEmail')" ref="emailRef">"shawnnectar@pm.me"</span>);
                 <span v-if="showCopiedEmail" class="text-green-500 ml-2">(Copied!)</span>
             </h2>
             <h2 class="pb-2">
-                <span class="text-orange-500">⠀let </span>discord = <br class="md:hidden"/><span class="md:hidden">⠀</span>String::<span style="color: #50a8e4;">from</span>(<span style="color: #fc8140; cursor: pointer;" @click="copyText('ShawnNectar#8155', 'showCopiedDiscord')" ref="discordRef">"ShawnNectar#8155"</span>);
+                <span class="text-orange-500">⠀let </span>discord = <br class="md:hidden"/><span class="md:hidden">⠀</span>String::<span style="color: #50a8e4;">from</span>(<span style="color: #fc4640; cursor: pointer;" @click="copyText('ShawnNectar#8155', 'showCopiedDiscord')" ref="discordRef">"ShawnNectar#8155"</span>);
                 <span v-if="showCopiedDiscord" class="text-green-500 ml-2">(Copied!)</span> <br>}
             </h2>
         </div>
