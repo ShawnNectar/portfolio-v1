@@ -8,6 +8,9 @@
             <span style="color:#79c7ba">println!</span>(<span style="color: #FC4640FF;">"Web Development <br class="md:hidden"/>## either static and dynamic"</span>);
         </h2>
         <h2 class="pb-2">
+            <span style="color:#79c7ba">println!</span>(<span style="color: #FC4640FF;">"Mobile Development <br class="md:hidden"/>## android development mainly"</span>);
+        </h2>
+        <h2 class="pb-2">
             <span style="color:#79c7ba">println!</span>(<span style="color: #FC4640FF;">"Math development 🔢 <br class="md:hidden"/>## specially algorithms"</span>);
         </h2>
         <h2 class="pb-2">
