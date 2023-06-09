@@ -1,3 +1,3 @@
 # portfolio-v1
 
-## Access here: [Portfolio](https://shawnnectar.vercel.app/) 
+## Access here: [portfolio](https://shawnnectar.vercel.app/) 
