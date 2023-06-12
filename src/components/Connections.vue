@@ -10,7 +10,7 @@
                 <span class="text-orange-500">fn</span> <span class="text-amber-300">click_to_copy</span>() {
             </h2>
             <h2 class=" pb-2">
-                <span class="text-orange-500">⠀let </span>email = <br class="md:hidden"/><span class="md:hidden">⠀</span>String::<span style="color: #50a8e4;">from</span>(<span style="color: #fc4640; cursor: pointer;" @click="copyText('\t\n','shawnnectar@pm.me', 'showCopiedEmail')" ref="emailRef">"shawnnectar@pm.me"</span>);
+                <span class="text-orange-500">⠀let </span>email = <br class="md:hidden"/><span class="md:hidden">⠀</span>String::<span style="color: #50a8e4;">from</span>(<span style="color: #fc4640; cursor: pointer;" @click="copyText('shawnnectar@pm.me', 'showCopiedEmail')" ref="emailRef">"shawnnectar@pm.me"</span>);
                 <span v-if="showCopiedEmail" class="text-green-500 ml-2">(Copied!)</span>
             </h2>
             <h2 class="pb-2">
