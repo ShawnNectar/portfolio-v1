@@ -5,9 +5,6 @@
     <div class="text-sm sm:text-3xl md:text-2xl text-blue-200 font-mono">
         <h1 class="text-green-600 py-2 md:py-5 ">// Working interests</h1>
         <h2 class="pb-2">
-            <span style="color:#79c7ba">println!</span>(<span style="color: #FC4640FF;">"Web Development 💻 <br class="md:hidden"/>## either static and dynamic"</span>);
-        </h2>
-        <h2 class="pb-2">
             <span style="color:#79c7ba">println!</span>(<span style="color: #FC4640FF;">"Mobile Development 📱 <br class="md:hidden"/>## android development mainly"</span>);
         </h2>
         <h2 class="pb-2">
@@ -21,6 +18,9 @@
         </h2>
         <h2 class="pb-2">
             <span style="color:#79c7ba">println!</span>(<span style="color: #FC4640FF;">"Machine Learning 🧠 <br class="md:hidden"/>## no further explanation, it's gold"</span>);
+        </h2>
+        <h2 class="pb-2">
+            <span style="color:#79c7ba">println!</span>(<span style="color: #FC4640FF;">"Web Development 💻 <br class="md:hidden"/>## either static and dynamic"</span>);
         </h2>
         <h2 class="pb-2">
             <span style="color:#79c7ba">println!</span>(<span style="color: #FC4640FF;">"Real-life applied stuff 🌐 <br class="md:hidden"/>## why would we build useless stuff?"</span>);
