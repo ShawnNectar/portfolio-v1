@@ -14,7 +14,7 @@
                 <span style="color:#79c7ba">println!</span>(<span style="color: #fc4640;">"17yo who lives in Brazil 🇧🇷"</span>);
             </li>
             <li class="pb-2">
-                <span style="color:#79c7ba">println!</span>(<span style="color: #fc4640;">"Loves math ♾️"</span>);
+                <span style="color:#79c7ba">println!</span>(<span style="color: #fc4640;">"Love math ♾️"</span>);
             </li>
             <li class="pb-2">
                 <span style="color:#79c7ba">println!</span>(<span style="color: #fc4640;">"Passionated about tech 🌐"</span>);
