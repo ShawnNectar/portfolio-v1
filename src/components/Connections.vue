@@ -6,7 +6,7 @@
                 <span class="text-orange-500">let </span>github = String::<span style="color: #50a8e4;">from</span>(<span style="color: #fc4640;">"<a style="text-decoration: underline" href="https://github.com/ShawnNectar" target=”_blank”>github</a>"</span>);
             </h1>
 
-            <h2 class="pt-6 pb-2">
+            <h2 class="pt-6 py-2">
                 <span class="text-orange-500">fn</span> <span class="text-amber-300">click_to_copy</span>() {
             </h2>
             <h2 class=" pb-2">
